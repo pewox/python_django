@@ -1,11 +1,3 @@
-https://e.training.b1-systems.de/ran-dhh-rss-dwb
-https://104705.training.b1-systems.de/
+http://git.training.lab/user0
 
-
-ssh tux@ansible-12
-
-
-u0CKDbVd55
-
-{
-}
+https://docs.ansible.com/ansible/latest/index.html
