@@ -1,2 +1,8 @@
 https://www.w3schools.com/django/index.php
 https://github.com/learning-go-book-2e
+
+https://tldp.org/LDP/abs/abs-guide.pdf
+https://ss64.com/
+https://devhints.io/bash
+https://www-user.tu-chemnitz.de/~hot/unix_linux_werkzeugkasten/links.html
+https://www-user.tu-chemnitz.de/~hot/unix_linux_werkzeugkasten/bash.html
