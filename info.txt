@@ -6,3 +6,4 @@ https://ss64.com/
 https://devhints.io/bash
 https://www-user.tu-chemnitz.de/~hot/unix_linux_werkzeugkasten/links.html
 https://www-user.tu-chemnitz.de/~hot/unix_linux_werkzeugkasten/bash.html
+https://www.rexegg.com/regex-quickstart.html
