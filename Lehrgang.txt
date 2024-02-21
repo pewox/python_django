@@ -1,3 +1,0 @@
-http://git.training.lab/user0
-
-https://docs.ansible.com/ansible/latest/index.html
