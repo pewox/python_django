@@ -1,0 +1,30 @@
+GRD1
+    Einführung in Linux: Geschichte und Konzepte
+    Die Bedienung des Linux-Systems
+    Hilfe und Dokumentation
+    Die Linux-Shell
+    Der Editor vi
+    Dateien: Anlegen und Pflege
+    Reguläre Ausdrücke
+    Standardkanäle und Filterkommandos
+    Mehr über die Shell
+    Das Dateisystem
+    Dateien archivieren (tar)
+    Suchfunktionen
+
+
+ADM1
+    Systemadministration
+    Benutzer- und Gruppenverwaltung
+    Der Bootlader (grub1+2)
+    Systemstart und Systemstopp
+    Prozessverwaltung
+    Speichermedien, Dateisysteme
+    System-V-Init, Systemd
+    Shared Libraries
+    Hardware und Rechnerarchitektur
+    Dynamische Bibliotheken
+    Paket-Verwaltung mit Debian-Werkzeugen
+    Paket-Verwaltung mit RPM
+    Backups
+    Logfiles
