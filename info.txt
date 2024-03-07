@@ -1,3 +1,4 @@
+https://docs.aws.amazon.com/de_de/fsx/latest/WindowsGuide/walkthrough05-file-system-custom-CNAME.html#step4-configure-dns-cname
 https://www.w3schools.com/django/index.php
 https://github.com/learning-go-book-2e
 
